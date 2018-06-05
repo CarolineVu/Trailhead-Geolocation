@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528195984025,
             "changeTime": 1528195984025,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528195984025,
             "changeTime": 1528195984025,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,187 +32,705 @@
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1528197505098,
-            "changeTime": 1528197505098,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "modifiedTime": 1528199125849,
+            "changeTime": 1528199125849,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1528195984025,
-            "changeTime": 1528195984025,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1528199324546,
+            "changeTime": 1528199324546,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1528196846693,
-            "changeTime": 1528196846693,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1528197996824,
+            "changeTime": 1528197996824,
+            "contentHash": "4422c14d4311811675b6d1e4072645d235af4fbd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1528197505059,
             "changeTime": 1528197505059,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1528197505070,
             "changeTime": 1528197505070,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1528197505080,
             "changeTime": 1528197505080,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1528197505087,
             "changeTime": 1528197505087,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1528197505096,
             "changeTime": 1528197505096,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1528197505099,
             "changeTime": 1528197505099,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528197505058,
             "changeTime": 1528197505058,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528197505057,
             "changeTime": 1528197505057,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528197505056,
             "changeTime": 1528197505056,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528197505095,
             "changeTime": 1528197505095,
-            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528197505098,
             "changeTime": 1528197505098,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528198576121,
+            "changeTime": 1528198576121,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1528198652873,
+            "changeTime": 1528198652873,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1528198576122,
+            "changeTime": 1528198576122,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528198819722,
+            "changeTime": 1528198819722,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1528198819721,
+            "changeTime": 1528198819721,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 182,
+            "modifiedTime": 1528199451166,
+            "changeTime": 1528199451166,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1528198819712,
+            "changeTime": 1528198819712,
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1528198847501,
+            "changeTime": 1528198847501,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1528198819722,
+            "changeTime": 1528198819722,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1528198819720,
+            "changeTime": 1528198819720,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1528198819714,
+            "changeTime": 1528198819714,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1528198819716,
+            "changeTime": 1528198819716,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1528198819719,
+            "changeTime": 1528198819719,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1528199125845,
+            "changeTime": 1528199125845,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4680,
+            "modifiedTime": 1528199125881,
+            "changeTime": 1528199125881,
+            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5020,
+            "modifiedTime": 1528199125881,
+            "changeTime": 1528199125881,
+            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17723,
+            "modifiedTime": 1528199125877,
+            "changeTime": 1528199125877,
+            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4684,
+            "modifiedTime": 1528199125881,
+            "changeTime": 1528199125881,
+            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528199125844,
+            "changeTime": 1528199125844,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528199125876,
+            "changeTime": 1528199125876,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528199324559,
+            "changeTime": 1528199324559,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528199228622,
+            "changeTime": 1528199228622,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528199432312,
+            "changeTime": 1528199432312,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 339,
+            "modifiedTime": 1528199452860,
+            "changeTime": 1528199452860,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1528199432301,
+            "changeTime": 1528199432301,
+            "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1528199451828,
+            "changeTime": 1528199451828,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1528199432313,
+            "changeTime": 1528199432313,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528199432311,
+            "changeTime": 1528199432311,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1528199454994,
+            "changeTime": 1528199454994,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528199432305,
+            "changeTime": 1528199432305,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528199432310,
+            "changeTime": 1528199432310,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528199228621,
+            "changeTime": 1528199228621,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 120,
+            "modifiedTime": 1528199251658,
+            "changeTime": 1528199251658,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1528199228611,
+            "changeTime": 1528199228611,
+            "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1528199250447,
+            "changeTime": 1528199250447,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1528199228623,
+            "changeTime": 1528199228623,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528199228620,
+            "changeTime": 1528199228620,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528199228614,
+            "changeTime": 1528199228614,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528199228616,
+            "changeTime": 1528199228616,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Caroline\\Documents\\Trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528199228619,
+            "changeTime": 1528199228619,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
